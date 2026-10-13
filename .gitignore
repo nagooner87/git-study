@@ -1,0 +1,22 @@
+# Python 캐시 / 빌드 산출물
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# 에디터 / OS 설정
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 임시 파일 및 Excel 잠금 파일 (예: ~$bus_routes.xlsx)
+~$*
+*.tmp
+*.log
